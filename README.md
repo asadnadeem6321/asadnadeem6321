@@ -38,6 +38,9 @@
   <a href="https://github.com/asadnadeem6321" target="blank">
     <img src="https://skillicons.dev/icons?i=github" />
   </a>
+  <a href="https://leetcode.com/u/Muhammad_Asad_Nadeem/" target="blank">
+    <img src="https://img.icons8.com/?size=100&id=9L16NypUzu38&format=png&color=000000" />
+  </a>
 </p>
 
 ---
