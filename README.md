@@ -22,18 +22,7 @@
 <p align="center">
   <img src="https://skillicons.dev/icons?i=python,django,flask,fastapi,postgresql,mysql,react,docker,aws&theme=dark" />
 </p>
-
 ---
-
-### 📊 My GitHub Statistics
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=asadnadeem6321&show_icons=true&locale=en&theme=tokyonight" alt="asadnadeem6321" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=asadnadeem6321&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="asadnadeem6321" width="48%" />
-</p>
-
----
-
 
 ### 🌐 Connect With Me
 
