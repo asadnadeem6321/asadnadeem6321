@@ -22,6 +22,7 @@
 <p align="center">
   <img src="https://skillicons.dev/icons?i=python,django,flask,fastapi,postgresql,mysql,react,docker,aws&theme=dark" />
 </p>
+
 ---
 
 ### 🌐 Connect With Me
